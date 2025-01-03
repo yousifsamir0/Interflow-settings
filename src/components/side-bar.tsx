@@ -1,20 +1,16 @@
 "use client"
-import { Bell, Building, Clock, CreditCard, Globe, HeadphonesIcon, LayoutDashboard, Settings, Shield, Ticket, Truck, UserCog, Users, Wallet } from 'lucide-react'
+import { Building, Clock, CreditCard, Globe, HeadphonesIcon, Settings, Ticket, Truck, UserCog, Users, Wallet } from 'lucide-react'
 import { useLocale } from 'next-intl';
 
 import {
     Sidebar,
     SidebarContent,
-    SidebarGroup,
-    SidebarGroupContent,
-    SidebarGroupLabel,
     SidebarHeader,
     SidebarMenu,
     SidebarMenuBadge,
     SidebarMenuButton,
     SidebarMenuItem,
 } from "@/components/ui/sidebar"
-import Image from "next/image"
 import { useTranslations } from 'next-intl';
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';

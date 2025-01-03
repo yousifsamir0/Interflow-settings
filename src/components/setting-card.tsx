@@ -3,6 +3,8 @@ import { useTranslations } from 'next-intl'
 import Link from 'next/link'
 import React from 'react'
 
+
+//@typescript-eslint/no-explicit-any
 type Props = {
     className?: string,
     cardData: {

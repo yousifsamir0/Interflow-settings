@@ -1,4 +1,4 @@
-import DummySetting from "@/components/dummy-setting";
+//@typescript-eslint/no-explicit-any
 
 export default async function Page({ params }: any) {
 

@@ -1,9 +1,9 @@
 import SettingCard from '@/components/setting-card'
-import { Bell, Building, Clock, CreditCard, Globe, HeadphonesIcon, LayoutDashboard, Settings, Shield, Ticket, Truck, UserCog, Users, Wallet } from 'lucide-react'
+import { Building, Clock, CreditCard, Globe, HeadphonesIcon, Settings, Ticket, Truck, UserCog, Users, Wallet } from 'lucide-react'
 import React from 'react'
 
 
-let settings = [
+const settings = [
     // {
     //     title: 'General Settings',
     //     description: 'Manage your account preferences and basic information.',

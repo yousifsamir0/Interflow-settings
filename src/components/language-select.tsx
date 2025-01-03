@@ -23,8 +23,7 @@ const languages = [
 ]
 
 export function LanguageSelect({ className }: Props) {
-    const t = useTranslations();
-    const [isPending, startTransition] = useTransition();
+    const [_isPending, startTransition] = useTransition();
     const locale = useLocale();
     return (
         <div className={cn(
