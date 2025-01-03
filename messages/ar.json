@@ -1,0 +1,63 @@
+{
+    "home": "الرئيسية",
+    "settings": "الإعدادات",
+    "generalSettings": {
+        "title": "الإعدادات العامة",
+        "description": "إدارة تفضيلات حسابك والمعلومات الأساسية."
+    },
+    "paymentSettings": {
+        "title": "إعدادات الدفع",
+        "description": "تحديث طرق الدفع ومعلومات الفواتير الخاصة بك."
+    },
+    "wallet": {
+        "title": "المحفظة",
+        "description": "إدارة محفظتك والمعاملات."
+    },
+    "temporaryMaintenance": {
+        "title": "الصيانة المؤقتة",
+        "description": "تعيين وضع الصيانة لمتجرك."
+    },
+    "domainSettings": {
+        "title": "إعدادات النطاق",
+        "description": "تكوين إعدادات النطاق المخصص الخاص بك."
+    },
+    "usersSettings": {
+        "title": "إعدادات المستخدمين",
+        "description": "إدارة حسابات المستخدمين والأذونات."
+    },
+    "technicalSupport": {
+        "title": "الدعم الفني",
+        "description": "احصل على المساعدة والدعم لمتجرك."
+    },
+    "branches": {
+        "title": "الفروع",
+        "description": "إدارة فروع ومواقع متجرك."
+    },
+    "employeesPermissions": {
+        "title": "أذونات الموظفين",
+        "description": "تعيين أذونات لموظفيك."
+    },
+    "deliverySettings": {
+        "title": "إعدادات التوصيل",
+        "description": "تكوين خيارات ومناطق التوصيل."
+    },
+    "coupons": {
+        "title": "الكوبونات",
+        "description": "إنشاء وإدارة كوبونات الخصم."
+    },
+    "comingSoon": "قريبًا",
+    "breadcrumbs": {
+        "home": "الرئيسية",
+        "settings": "الإعدادات",
+        "payment": "الدفع",
+        "wallet": "المحفظة",
+        "maintenance": "الصيانة",
+        "domain": "النطاق",
+        "users": "المستخدمين",
+        "support": "الدعم",
+        "branches": "الفروع",
+        "permissions": "الأذونات",
+        "delivery": "التوصيل",
+        "coupons": "الكوبونات"
+    }
+}

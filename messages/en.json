@@ -1,0 +1,63 @@
+{
+    "home": "Home",
+    "settings": "Settings",
+    "generalSettings": {
+        "title": "General Settings",
+        "description": "Manage your account preferences and basic information."
+    },
+    "paymentSettings": {
+        "title": "Payment Settings",
+        "description": "Update your payment methods and billing information."
+    },
+    "wallet": {
+        "title": "Wallet",
+        "description": "Manage your wallet and transactions."
+    },
+    "temporaryMaintenance": {
+        "title": "Temporary Maintenance",
+        "description": "Set maintenance mode for your store."
+    },
+    "domainSettings": {
+        "title": "Domain Settings",
+        "description": "Configure your custom domain settings."
+    },
+    "usersSettings": {
+        "title": "Users Settings",
+        "description": "Manage user accounts and permissions."
+    },
+    "technicalSupport": {
+        "title": "Technical Support",
+        "description": "Get help and support for your store."
+    },
+    "branches": {
+        "title": "Branches",
+        "description": "Manage your store branches and locations."
+    },
+    "employeesPermissions": {
+        "title": "Employees Permissions",
+        "description": "Set permissions for your employees."
+    },
+    "deliverySettings": {
+        "title": "Delivery Settings",
+        "description": "Configure delivery options and zones."
+    },
+    "coupons": {
+        "title": "Coupons",
+        "description": "Create and manage discount coupons."
+    },
+    "comingSoon": "Soon",
+    "breadcrumbs": {
+        "home": "Home",
+        "settings": "Settings",
+        "payment": "Payment",
+        "wallet": "Wallet",
+        "maintenance": "Maintenance",
+        "domain": "Domain",
+        "users": "Users",
+        "support": "Support",
+        "branches": "Branches",
+        "permissions": "Permissions",
+        "delivery": "Delivery",
+        "coupons": "Coupons"
+    }
+}
